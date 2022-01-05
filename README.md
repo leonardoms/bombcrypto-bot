@@ -6,7 +6,7 @@
 
 ### PIX:
   9694e489-0534-446d-b54d-a1f58059cc34
-![pix](https://github.com/mpcabete/leonardoms/raw/main/readme-images/pix.png)
+![pix](https://github.com/leonardoms/bombcrypto-bot/blob/main/readme-images/pix.png?raw=true)
 
   
 # Sobre:
@@ -209,5 +209,5 @@ exemplo na pasta “targets” para uma tirada no seu próprio computador:
 #### 0xCF6cf6ac9674cccA79Bc6EE1196C58197B4fEbA7
 ### PIX:
   9694e489-0534-446d-b54d-a1f58059cc34
-![pix](https://github.com/mpcabete/leonardoms/raw/main/readme-images/pix.png)
+![pix](https://github.com/leonardoms/bombcrypto-bot/blob/main/readme-images/pix.png?raw=true)
 

@@ -2,13 +2,11 @@
 ## Do the good
 
 ### Smart Chain Wallet(BUSD/BNB/BCOIN):
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
-or
-https://bot.cryptip.xyz/
+#### 0xCF6cf6ac9674cccA79Bc6EE1196C58197B4fEbA7
 
 ### PIX:
-  6ce2b79e-97be-4881-a882-81902e29d7ce
-![pix](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/pix.jpeg)
+  9694e489-0534-446d-b54d-a1f58059cc34
+![pix](https://github.com/mpcabete/leonardoms/raw/main/readme-images/pix.jpeg)
 
   
 # Sobre:
@@ -25,14 +23,6 @@ seja possível eu estou criando algumas metas de doação para que o bot possa
 ser financiado coletivamente. Atualmente eu atualizarei a barra das metas
 manualmente de forma diária, talvez no futuro eu automatize o processo de
 alguma forma.
-
- 
-
-### Paypal:
-[Donate:](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
-https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ
-or
-mpcabete@protonmail.com
 
 ## Aviso:
 
@@ -216,7 +206,8 @@ exemplo na pasta “targets” para uma tirada no seu próprio computador:
 ## Curtiu? Dê aquela fortalecida :)
 
 ### Wallet:
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
-### Paypal:
-[Donate](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
+#### 0xCF6cf6ac9674cccA79Bc6EE1196C58197B4fEbA7
+### PIX:
+  9694e489-0534-446d-b54d-a1f58059cc34
+![pix](https://github.com/mpcabete/leonardoms/raw/main/readme-images/pix.jpeg)
 
